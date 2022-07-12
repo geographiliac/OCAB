@@ -6,4 +6,4 @@ Read more about [redistricting within Buffalo here](https://www.ourcityactionbuf
 The City of Buffalo's common council has posted their [plan for reapportionment here (boo)](https://www.buffalony.gov/1505/Reapportionment). 
 However, their maps have only been released as a .pdf, which makes the maps inaccessable to independent inquiry or analysis. This pdf was painstakenly digitized by Rusty Weaver [(@RustBeltgGeo)](https://twitter.com/RustBeltGeo), who also created the maps and analytics above. 
 
-To date, the Buffalo common council, and the reapportionment commission, has not released GIS files for their proposed map or even statistics about the compactness of the districts they selected. 
+To date, the Buffalo common council and the reapportionment commission have not released the GIS files for their proposed map. The [Buffalo Open Data portal](https://data.buffalony.gov/Government/Council-Districts/u5mx-ugvy) does include the current council districts established in 2011 (also stored in this repository).
